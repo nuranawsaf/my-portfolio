@@ -2,11 +2,6 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-@media screen and (min-width: 500px) {
-    body {
-     
-    }
-  }
 h1{
     font-size: 50px;
 }
