@@ -2,9 +2,9 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
     body {
-      background-color: lightgreen;
+      background-color:none;
     }
   }
 h1{
