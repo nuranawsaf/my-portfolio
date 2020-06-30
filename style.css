@@ -19,6 +19,7 @@ p{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    text-align: justify;
 }
 .half-width img{
     width: 100%;
